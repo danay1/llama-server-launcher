@@ -42,4 +42,4 @@ Settings are stored in `%LOCALAPPDATA%\LlamaServerLauncher\settings.json`.
 
 ## License
 
-No license has been added yet.
+MIT — see [LICENSE](LICENSE).
